@@ -1,0 +1,3 @@
+Here is the content of new file : Hello this is first file, 
+this is checking the content of first file., Jai shree Ram
+from second file.This the append content 
